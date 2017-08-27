@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ExemploRetrofit</string>
+    <string name="titulo">Título:</string>
+    <string name="data">Data de Lançamento:</string>
+    <string name="linguagem">pt-Br</string>
+    <string name="sinopse">Sinopse</string>
+    <string name="add">Adidionar a lista</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="duracao">Duração:</string>
+    <string name="genero">Gênero:</string>
+    <string name="pag">Página</string>
+    <string name="de">de</string>
+    <string name="lista">Minha lista</string>
+    <string name="excluir">Excluir item</string>
+    <string name="excluir_msg">Deseja excluir o item?</string>
+    <string name="conectado">Você não está conectado!!!</string>
+    <string name="adicionado">Filme adicionado na sua lista!</string>
+</resources>

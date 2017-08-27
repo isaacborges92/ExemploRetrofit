@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo">Title:</string>
+    <string name="data">Release date:</string>
+    <string name="linguagem">en-US</string>
+    <string name="sinopse">Overview</string>
+    <string name="add">Add to watch list</string>
+    <string name="detalhes">Details</string>
+    <string name="duracao">Runtime:</string>
+    <string name="genero">Genre:</string>
+    <string name="pag">Page</string>
+    <string name="de">to</string>
+    <string name="lista">My list</string>
+    <string name="excluir">Delete item</string>
+    <string name="excluir_msg">Do you want to delete the item?</string>
+    <string name="conectado">You are not connected!!!</string>
+    <string name="adicionado">Movie added to your list!</string>
+</resources>
